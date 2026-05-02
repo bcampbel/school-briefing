@@ -1,8 +1,8 @@
 [
   {
-    "uid": "school-briefing-2026-04-29",
-    "updateDate": "2026-04-29T11:36:45.0Z",
-    "titleText": "School Update - Wednesday, April 29",
+    "uid": "school-briefing-2026-05-02",
+    "updateDate": "2026-05-02T12:41:33.0Z",
+    "titleText": "School Update - Saturday, May 02",
     "mainText": "Warning: Your school email scanner needs attention. The Gmail authentication token has expired and needs to be renewed. Please open a terminal and run the scan manually to re-authenticate. Until this is fixed, no new school emails will be scanned and no calendar events will be created.",
     "redirectionUrl": "https://bcampbel.github.io/school-briefing/"
   }
